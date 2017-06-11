@@ -1,0 +1,54 @@
+
+      
+      .jumbotron {
+          background-image: url("../images/andromeda.jpg");
+          color:white;
+          }
+          
+          body, h1,h2,h3,h4 {      font-family: 'Muli', sans-serif;
+      }
+          
+          .well {
+
+padding-left: 3em;
+padding-right: 3em;              
+          }
+          
+          .panel{
+              border:0px;
+              
+          }
+          .panel-default>.panel-heading {
+               background-color:#8EA06B;
+                background-image: url("../images/topography.svg");
+              border-bottom-width: 0px;
+              color:white;
+          }
+          
+       
+          .panel-body {
+           background-color: transparent;
+            
+              }
+
+          
+          .btn-activity{
+              background-color:#8EA06B;
+              border-width: 0px;
+              border-style:solid;
+              color:white;
+          }
+          
+          .btn-assess{
+              background-color:#106F85;
+              border-width: 0px;
+              border-style:solid;
+              color:white;
+          }
+          
+          h4{
+              
+              -webkit-animation-delay: 1s; /* Safari 4.0 - 8.0 */
+    animation-delay: 1s;
+          }
+          
