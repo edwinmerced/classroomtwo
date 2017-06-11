@@ -1,8 +1,11 @@
 
       
       .jumbotron {
-          background-image: url("../images/andromeda.jpg");
+          background-image: url("../images/bank.png");
+          background-size: cover;
+          background-position: center center;
           color:white;
+
           }
           
           body, h1,h2,h3,h4 {      font-family: 'Muli', sans-serif;
