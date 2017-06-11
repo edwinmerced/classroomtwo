@@ -37,6 +37,7 @@ padding-right: 3em;
           
           .btn-activity{
               background-color:#8EA06B;
+              background-image: url("../images/topography.svg");
               border-width: 0px;
               border-style:solid;
               color:white;
@@ -44,6 +45,7 @@ padding-right: 3em;
           
           .btn-assess{
               background-color:#106F85;
+              background-image: url("../images/topography.svg");
               border-width: 0px;
               border-style:solid;
               color:white;
